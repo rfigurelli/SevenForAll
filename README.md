@@ -1,6 +1,6 @@
 # 🕊️ SevenForAll
 
-**Content at the service of Wisdom. Geometry at the service of Listening.**
+**Content at the service of Wisdom!**
 
 A repository of symbolic articles, executable code, diagrams, and ideas — focused on solving complex problems through simple, ethical, and auditable structures.
 
