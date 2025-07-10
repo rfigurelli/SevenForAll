@@ -4,6 +4,12 @@
 
 A repository of symbolic articles, executable code, diagrams, and ideas — focused on solving complex problems through simple, ethical, and auditable structures. Guided by the "Seven for All" archetype — where all intelligence is meant to serve — this space exists to disseminate meaningful content aligned with the principles of Open Innovation and ethical applications of AI, AGI, and ASI.
 
+**The mission is clear:**
+
+To open knowledge and wisdom to everyone, making even the world’s most complex challenges — including the [seven Millennium Problems of the Clay Mathematics Institute](https://www.claymath.org/millennium-problems) — accessible, discussable, and collectively solvable.
+
+**The methodology is transparent:**
+
 Here, every contribution matters: from the insights of experts to the questions of children. Through listening, compassion, and clarity, we build a space where intelligence is shared, cycles of wisdom are transparent, and solutions emerge from the resonance of diverse minds.
 
 For now, all updates are made by the author — serving as a living synthesis of research, analysis, and collective feedback, both human and from the Wisdom Turing Machine (WTM). Every change reflects the ongoing dialogue with contributors and the evolving insights of this open community.
