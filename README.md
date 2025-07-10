@@ -8,6 +8,8 @@ A repository of symbolic articles, executable code, diagrams, and ideas — focu
 
 To open knowledge and wisdom to everyone, making even the world’s most complex challenges — including the [seven Millennium Problems of the Clay Mathematics Institute](https://www.claymath.org/millennium-problems) — accessible, discussable, and collectively solvable.
 
+The goal here is not to win prizes or recognition, but to cultivate results that serve humanity as a whole: solutions that are open, replicable, ethical, and understandable — so that progress becomes a shared legacy, and every advance can empower, inspire, and include all who seek to learn, create, or contribute.
+
 **The methodology is transparent:**
 
 Here, every contribution matters: from the insights of experts to the questions of children. Through listening, compassion, and clarity, we build a space where intelligence is shared, cycles of wisdom are transparent, and solutions emerge from the resonance of diverse minds.
